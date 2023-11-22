@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://bittered-sling.vercel.app"><img src="assets/expenses.png" alt="Markdownify" width="200"></a>
+  <a href="https://expense-tracker-five-alpha.vercel.app/"><img src="assets/expenses.png" alt="Markdownify" width="200"></a>
   <br>
     Expense Tracker
   <br>
 </h1>
 
-<h4 align="center"><a href="https://bittered-sling.vercel.app" target="_blank">Web-app</a>  that provides a simple way to keep track of expenses.</h4>
+<h4 align="center"><a href="https://expense-tracker-five-alpha.vercel.app/" target="_blank">Web-app</a>  that provides a simple way to keep track of expenses.</h4>
 
 <br>
 <p align="center">
