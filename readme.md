@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center"><a href="https://bittered-sling.vercel.app" target="_blank">Web-app</a> that serves as an API client to display cocktail preparation data.</h4>
+<h4 align="center"><a href="https://bittered-sling.vercel.app" target="_blank">Web-app</a>  that provides a simple way to keep track of expenses.</h4>
 
 <br>
 <p align="center">
